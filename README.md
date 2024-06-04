@@ -1,7 +1,7 @@
 # 💫 Hi There, I'm Tanok:
 🧑🏻‍🎓A Computer Science Student!<br>
 📚Currently studying Data Analytics and Machine Learning<br>
-🎥Love to make videos about Computer Science on my Instagram
+🎥Love to make videos about Computer Science on my [Instagram](https://instagram.com/bagusde._)
 
 
 ## 🌐 Connect With Me:
