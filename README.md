@@ -1,6 +1,6 @@
 # 💫 Hi There, I'm Tanock:
 🧑🏻‍🎓A Computer Science Student!<br>
-📚Currently studying Data Analytics and Machine Learning<br>
+📚Currently studying Computer Vision and Machine Learning<br>
 🎥Love to make videos about Computer Science on my [Instagram](https://instagram.com/bagusde._)
 
 
